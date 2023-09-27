@@ -1,0 +1,9 @@
+<svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" >
+    <title>Holi!! hoy es Viernes!!</title>
+    <style>
+        .circle {fill: blue}
+        .rojo {fill: red}
+    </style>
+    <circle class="circle" cx="5" cy="5" r="5" />
+    <circle class="rojo" cx="20" cy="5" r="3" />
+</svg>
