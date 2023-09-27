@@ -5,3 +5,6 @@ El textyo plano funciona
 holi holi holi
 
 Esto es un párrafo nuevo
+
+- [ ] Hola
+- [x] check!
